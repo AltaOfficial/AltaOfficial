@@ -1,4 +1,4 @@
-[![Jaedon Farr profile views](https://u8views.com/api/v1/github/profiles/21995530/views/total-count.svg)](https://u8views.com/github/AltaOfficial)
+![](https://komarev.com/ghpvc/?username=altaofficial)
 ## Hi I'm Jaedon 👋
 
 <!--
