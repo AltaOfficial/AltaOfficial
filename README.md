@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Jaedon Farr profile views](https://u8views.com/api/v1/github/profiles/21995530/views/total-count.svg)](https://u8views.com/github/AltaOfficial)
+## Hi I'm Jaedon 👋
 
 <!--
 **AltaOfficial/AltaOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
