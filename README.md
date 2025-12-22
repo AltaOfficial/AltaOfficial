@@ -1,17 +1,53 @@
-![](https://komarev.com/ghpvc/?username=altaofficial)
-## Hi I'm Jaedon 👋
+<h1 align="center">Jaedon Farr</h1>
 
-<!--
-**AltaOfficial/AltaOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 I enjoy building things that actually solve problems
+- 🎓 **CS @ Columbus State** → transferring to Ohio State for Engineering
+- 🏆 **RocketHacks 2025 winner** | 8 hackathons deep and counting
+- 🎯 **Focus areas**: Full-stack development, automation, and scalable systems
+- 🎮 **Top 3 Favorite Games**: Counter-Strike 2, Dead By Daylight, Escape From Tarkov
+- 📫 **Best way to reach me**: Discord (@altaofficial) or [jaedonfarr@gmail.com](mailto:jaedonfarr@gmail.com)
 
-Here are some ideas to get you started:
+<h2 align="center">Tech Stack 🔨</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<h2 align="center">Featured Projects 🚀</h2>
+
+<p align="center">
+  <a href="https://github.com/AltaOfficial/ReachAI">
+    <img src="https://cdn.sanity.io/images/eqay8g3b/production/a9ba3b0e8841d14d604ba9d7eecced09527b6cee-2940x1594.png" width="45%" alt="ReachAI"/>
+  </a>
+  &emsp;
+  <a href="https://github.com/AltaOfficial/Practium">
+    <img src="https://cdn.sanity.io/images/eqay8g3b/production/fbd9ea4bb14fe4c8b6b3b0b4b54b8e4ba0f7d4ca-1919x1079.png" width="45%" alt="Practium"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AltaOfficial/All-in-1-gym-app">
+    <img src="https://cdn.sanity.io/images/eqay8g3b/production/c4b783e86bd283538285fd63f1dfd609a4913383-1920x1080.png" width="45%" alt="All-in-1 Gym App"/>
+  </a>
+  &emsp;
+  <a href="https://github.com/AltaOfficial/MonopolyInMatlab">
+    <img src="https://cdn.sanity.io/images/eqay8g3b/production/4a521b963439e599b09cfa15da27cba312179253-1919x1079.png" width="45%" alt="Monopoly in MATLAB"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/altaofficial"><img width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="Discord" /></a>&nbsp;
+  <a href="mailto:jaedonfarr@gmail.com"><img width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" /></a>&nbsp;
+  <a href="https://github.com/AltaOfficial"><img width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jaedon-farr/"><img width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://jaedonfarr.vercel.app/"><img width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vercel.svg" alt="Portfolio" /></a>
+</p>
