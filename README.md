@@ -43,11 +43,3 @@
     <img src="https://cdn.sanity.io/images/eqay8g3b/production/4a521b963439e599b09cfa15da27cba312179253-1919x1079.png" width="45%" alt="Monopoly in MATLAB"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://discord.com/users/altaofficial"><img width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="Discord" /></a>&nbsp;
-  <a href="mailto:jaedonfarr@gmail.com"><img width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" /></a>&nbsp;
-  <a href="https://github.com/AltaOfficial"><img width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/jaedon-farr/"><img width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://jaedonfarr.vercel.app/"><img width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vercel.svg" alt="Portfolio" /></a>
-</p>
