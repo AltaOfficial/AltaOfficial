@@ -7,7 +7,7 @@
 - 🎮 **Top 3 Favorite Games**: Counter-Strike 2, Dead By Daylight, Escape From Tarkov
 - 📫 **Best way to reach me**: Discord (@altaofficial) or [jaedonfarr@gmail.com](mailto:jaedonfarr@gmail.com)
 
-<h2 align="center">Tech Stack 🔨</h2>
+<h2 align="center">What I Usually Build With 🔨</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -24,22 +24,28 @@
 
 <h2 align="center">Featured Projects 🚀</h2>
 
-<p align="center">
-  <a href="https://github.com/AltaOfficial/ReachAI">
-    <img src="https://cdn.sanity.io/images/eqay8g3b/production/a9ba3b0e8841d14d604ba9d7eecced09527b6cee-2940x1594.png" width="45%" alt="ReachAI"/>
-  </a>
-  &emsp;
-  <a href="https://github.com/AltaOfficial/Practium">
-    <img src="https://cdn.sanity.io/images/eqay8g3b/production/fbd9ea4bb14fe4c8b6b3b0b4b54b8e4ba0f7d4ca-1919x1079.png" width="45%" alt="Practium"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AltaOfficial/All-in-1-gym-app">
-    <img src="https://cdn.sanity.io/images/eqay8g3b/production/c4b783e86bd283538285fd63f1dfd609a4913383-1920x1080.png" width="45%" alt="All-in-1 Gym App"/>
-  </a>
-  &emsp;
-  <a href="https://github.com/AltaOfficial/MonopolyInMatlab">
-    <img src="https://cdn.sanity.io/images/eqay8g3b/production/4a521b963439e599b09cfa15da27cba312179253-1919x1079.png" width="45%" alt="Monopoly in MATLAB"/>
-  </a>
-</p>
+<div style="display: flex; place-content: 'center'">
+  <div>
+    <a href="https://github.com/AltaOfficial/ReachAI">
+      <p>ReachAI</p>
+      <img src="https://cdn.sanity.io/images/eqay8g3b/production/a9ba3b0e8841d14d604ba9d7eecced09527b6cee-2940x1594.png" width="45%" alt="ReachAI"/>
+    </a>
+    &emsp;
+    <a href="https://github.com/AltaOfficial/Practium">
+      <p>Practium</p>
+      <img src="https://cdn.sanity.io/images/eqay8g3b/production/fbd9ea4bb14fe4c8b6b3b0b4b54b8e4ba0f7d4ca-1919x1079.png" width="45%" alt="Practium" />
+    </a>
+  </div>
+  
+  <div>
+    <a href="https://github.com/AltaOfficial/All-in-1-gym-app">
+      <p>Strive</p>
+      <img src="https://cdn.sanity.io/images/eqay8g3b/production/c4b783e86bd283538285fd63f1dfd609a4913383-1920x1080.png" width="45%" alt="All-in-1 Gym App"/>
+    </a>
+    &emsp;
+    <a href="https://github.com/AltaOfficial/MonopolyInMatlab">
+      <p>Monopoly in MATLAB</p>
+      <img src="https://cdn.sanity.io/images/eqay8g3b/production/4a521b963439e599b09cfa15da27cba312179253-1919x1079.png" width="45%" alt="Monopoly in MATLAB"/>
+    </a>
+  </div>
+</div>
