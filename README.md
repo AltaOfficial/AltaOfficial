@@ -26,11 +26,11 @@
 
 <div align="center">
 
-| **ReachAI** | **Practium** |
+| **Twitter DM Advertiser** | **AI Tutor Bot** |
 |:---:|:---:|
 | <a href="https://github.com/AltaOfficial/ReachAI"><img src="https://cdn.sanity.io/images/eqay8g3b/production/a9ba3b0e8841d14d604ba9d7eecced09527b6cee-2940x1594.png" width="400" alt="ReachAI"/></a> | <a href="https://github.com/AltaOfficial/Practium"><img src="https://cdn.sanity.io/images/eqay8g3b/production/fbd9ea4bb14fe4c8b6b3b0b4b54b8e4ba0f7d4ca-1919x1079.png" width="400" alt="Practium" /></a> |
 
-| **Strive** | **Monopoly in MATLAB** |
+| **All-in-1 Gym App** | **Monopoly in MATLAB** |
 |:---:|:---:|
 | <a href="https://github.com/AltaOfficial/All-in-1-gym-app"><img src="https://cdn.sanity.io/images/eqay8g3b/production/c4b783e86bd283538285fd63f1dfd609a4913383-1920x1080.png" width="400" alt="All-in-1 Gym App"/></a> | <a href="https://github.com/AltaOfficial/MonopolyInMatlab"><img src="https://cdn.sanity.io/images/eqay8g3b/production/4a521b963439e599b09cfa15da27cba312179253-1919x1079.png" width="400" alt="Monopoly in MATLAB"/></a> |
 
