@@ -4,7 +4,7 @@
 - 🎓 **CS @ Columbus State** → transferring to Ohio State for Engineering
 - 🏆 **RocketHacks 2025 winner** | 8 hackathons deep and counting
 - 🎯 **Focus areas**: Full-stack development, automation, and scalable systems
-- 🎮 **Top 3 Favorite Games**: Counter-Strike 2, Dead By Daylight, Escape From Tarkov
+- 🤖 **Current Favorite Coding Agent**: Claude Code all the way
 - 📫 **Best way to reach me**: Discord (@altaofficial) or [jaedonfarr@gmail.com](mailto:jaedonfarr@gmail.com)
 
 <h2 align="center">What I Usually Build With 🔨</h2>
